@@ -8,11 +8,11 @@ This project demonstrates how GPU acceleration can significantly improve protein
 ---
 
 ## Features
-- ⚡ **GPU acceleration** with CUDA (dynamic parallelism enabled)
-- 🖥️ **CPU fallback** for reference and debugging
-- 📦 Support for AMBER-style **PDB/parm7/CRD** inputs
-- 🧪 Example protein data included (`Data/` folder)
-- 📊 Outputs trajectories in `.crd` format
+- **GPU acceleration** with CUDA (dynamic parallelism enabled)
+- **CPU fallback** for reference and debugging
+- Support for AMBER-style **PDB/parm7/CRD** inputs
+- Example protein data included (`Data/` folder)
+- Outputs trajectories in `.crd` format
 
 ---
 
@@ -110,10 +110,6 @@ This will:
 - Extendable for different proteins by changing PDB/PARM inputs
 
 ---
-
-## License
-MIT License (or specify if different).
-
 ---
 
 ## Author
